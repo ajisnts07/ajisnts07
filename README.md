@@ -1,5 +1,3 @@
-### Hi there 👋, I'm Aji Santoso
-
 <!--
 **ajisnts07/ajisnts07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>🔧aji santokadfjkdj</h1>
+<header style="backgroung-color: #ffffff">
+  <h1>Hi, im</h1>
+</header
+
