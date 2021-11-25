@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<header style="backgroung-color: #ffffff">
-  <h1>Hi, im</h1>
-</header
+![Hi, im](https://user-images.githubusercontent.com/93149930/143334762-9f39c306-8363-4710-88f1-1f057e882a29.png)
+
 
