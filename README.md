@@ -46,5 +46,25 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="25" width="25" alt="c++">
      </td>    
     </tr>
+    <tr>
+      <td>
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" height="25" width="25" alt="mysql">
+      </td>
+     <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/964px-Bootstrap_logo.svg.png" height="25" width="25" alt="bootstrap5">
+     </td>
+     <td>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png" height="25" width="25" alt="jquery">
+     </td>
+     <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="25" width="25" alt="laravel">
+     </td>
+     <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" height="25" width="25" alt="sass">
+     </td>
+     <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="25" width="25" alt="figma">
+     </td>    
+    </tr>
   </table>
 </p>
