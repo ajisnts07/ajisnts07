@@ -70,11 +70,10 @@
 </p>
 
 <h3>Repositories</h3>
-> Pinned Repository.
-<div width="100%" align="center">
- <a align="left" href="https://github.com/ajisnts07/care" title="care"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ajisnts07&repo=care&&show_icons=true&theme=dracula"></a>
- <a align="left" href="https://github.com/ajisnts07/pSistemPakarWeb" title="care"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ajisnts07&repo=pSistemPakarWeb&&show_icons=true&theme=dracula"></a>
-</div>
+<p align="left">
+ <a align="left" href="https://github.com/ajisnts07/care" title="care"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ajisnts07&repo=care&&show_icons=true&theme=dracula"></a>
+ <a align="left" href="https://github.com/ajisnts07/pSistemPakarWeb" title="care"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ajisnts07&repo=pSistemPakarWeb&&show_icons=true&theme=dracula"></a>
+</p>
 
 <p align="left">
  <a href="https://github.com/ajisnts07?tab=repositories" align="left">
