@@ -6,12 +6,11 @@
  </a>
 </h1> 
 
+<h3>About Me</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api?username=ajisnts07&&show_icons=true&theme=dracula" align="right" />
 </a>
-
 <p align="left">
-  <h3>About Me</h3>
   Hello, <br>
   I am someone who has hobbies in technology, coding, playing computer games, UI/UX design, digital art and others. I aspire to be the Full Stack Developer. <br>
   I am currently studying to become an informatics engineering graduate. <br><br>
