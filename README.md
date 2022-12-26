@@ -21,7 +21,7 @@
 
 <h3>Favourite Tech</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajisnts07&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=dracula" />
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajisnts07&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&&show_icons=true&theme=dracula" />
 </a>
 <p align="left">
   > Languages, Tools and others things that i like to work with.
@@ -71,8 +71,8 @@
 
 <h3>Repositories</h3>
 <div width="100%" align="center">
- <a align="left" href="https://github.com/ajisnts07/care" title="care"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ajisnts07&repo=care&theme=dracula"></a>
- <a align="left" href="https://github.com/ajisnts07/pSistemPakarWeb" title="care"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ajisnts07&repo=pSistemPakarWeb&theme=dracula"></a>
+ <a align="left" href="https://github.com/ajisnts07/care" title="care"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ajisnts07&repo=care&&show_icons=true&theme=dracula"></a>
+ <a align="left" href="https://github.com/ajisnts07/pSistemPakarWeb" title="care"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ajisnts07&repo=pSistemPakarWeb&&show_icons=true&theme=dracula"></a>
 </div>
 
 <p align="left">
