@@ -19,7 +19,7 @@
   <code><a href="https://www.instagram.com/ajisntsjf_/" target="_blank"><img title="Email" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png"> Email</a></code>
 </p>
 
-<h3>Favourite Tech</h2>
+<h3>Favourite Tech</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajisnts07&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=dracula" />
 </a>
@@ -67,4 +67,16 @@
      </td>    
     </tr>
   </table>
+</p>
+
+<h3>Repositories</h3>
+<div width="100%" align="center">
+ <a align="left" href="https://github.com/ajisnts07/care" title="care"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ajisnts07&repo=care&theme=dracula"></a>
+ <a align="left" href="https://github.com/ajisnts07/pSistemPakarWeb" title="care"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ajisnts07&repo=pSistemPakarWeb&theme=dracula"></a>
+</div>
+
+<p align="left">
+ <a href="https://github.com/ajisnts07?tab=repositories" align="left">
+ Show More
+</a>
 </p>
