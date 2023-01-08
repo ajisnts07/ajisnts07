@@ -24,7 +24,7 @@
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajisnts07&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&&show_icons=true&theme=dracula" />
 </a>
 <p align="left">
-  > Languages, Tools and others things that i like to work with.
+  > Languages, Tools and Others things that i like to work with.
   <table>
     <tr>
       <td>
